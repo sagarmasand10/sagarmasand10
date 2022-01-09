@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagarmasand10
 - 👀 I’m interested in robotics, IOT, BLockchain, PowerApps.
 - 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects based on Blockchain and Power Platform.
 - 📫 How to reach me - https://www.linkedin.com/in/sagar-masand-a50164129/
 
 <!---
